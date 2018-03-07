@@ -17,7 +17,7 @@ used to print 10 files largest size files according to their size.
 extra function not used in given problem statement can be used to know various root directories present in the system of any OS.
 
 #### Compiling SizeSorter.java
-``` Java jdk 1.7``` or greater are preffered.
+``` Java 7( jdk 1.7)``` or greater preffered.
 (In Terminal/Command Prompt) move to the directory were SizeSorter.java is placed and type the following commands.
 ###### step 1:- generating class files
 ``` javac SizeSorter.java ```
@@ -37,7 +37,7 @@ used as a driver module for Mover also the path to user's desktop and user's dou
 In main function only the directories are created in Documents based on extensions of file's present in the Desktop and move the file's to their respective folder's based on extension.
 
 #### Compiling Mover.java
-``` Java jdk 1.7``` or greater are preffered.
+``` Java 7(jdk 1.7)``` or greater preffered.
 (In Terminal/Command Prompt) move to the directory were Mover.java is placed and type the following commands.
 ###### step 1:- generating class files
 ``` javac Mover.java ```
