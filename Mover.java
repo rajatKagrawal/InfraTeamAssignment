@@ -56,11 +56,10 @@ public class Mover {
                 }
 
             }
+        System.out.println("**********************************************");
+        System.out.println("Files moved to directory : " + documentsPath);
+        System.out.println("**********************************************");
         }
-
-        System.out.println("**********************************************");
-        System.out.println("Files moved to directory : " + desktopPath);
-        System.out.println("**********************************************");
 
     }
 }
